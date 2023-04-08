@@ -1,5 +1,3 @@
-package CalculatingPi;
-
 import java.util.ArrayList;
 
 public class MyThread extends Thread
